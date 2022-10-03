@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Docs/web/Eu%20professor/src/java/Controle/CadLogin.java</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/login.jsp</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/cadastro.jsp</file>
+            <file>file:/F:/Docs/web/Eu%20professor/src/java/Persistencia/UsuarioDAO.java</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/index.jsp</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/social.jsp</file>
+            <file>file:/F:/Docs/web/Eu%20professor/src/java/Controle/Autentica.java</file>
+            <file>file:/F:/Docs/web/Eu%20professor/src/java/Modelo/Usuario.java</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/menuAluno.jsp</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/menuProfessor.jsp</file>
+            <file>file:/F:/Docs/web/Eu%20professor/src/java/Persistencia/PostagemDAO.java</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/topo.jsp</file>
+            <file>file:/F:/Docs/web/Eu%20professor/src/java/Modelo/Postagem.java</file>
+            <file>file:/F:/Docs/web/Eu%20professor/src/conf/persistence.xml</file>
+            <file>file:/F:/Docs/web/Eu%20professor/web/style.css</file>
+        </group>
+    </open-files>
+</project-private>
